@@ -1,4 +1,5 @@
 myList = [1,2,3,1]
+# Ordered, mutable, allows duplicate values
 
 print(myList.index(1)) #get the index of that value
 myList.append(1) #append
