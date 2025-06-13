@@ -31,3 +31,8 @@ for name, age in friendsAge.items() :
 my_dictionary = {'a': 1, 'b': 2, 'c': 3}
 items = list(my_dictionary.items())
 print(items)
+
+
+my_dictionary = {'name': "Fahim", 'age': 28}
+for key, value in my_dictionary.items():
+    print(key, value)
